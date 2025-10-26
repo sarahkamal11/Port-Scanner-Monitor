@@ -14,7 +14,7 @@ Requirements: Python 3.x
 
 `python3 blue_team_monitor.py --target 127.0.0.1 --expected 22,80,443 --range 1-1024 --timeout 0.5`
 
-Defaults:
+**Defaults:**
 
 --target = 127.0.0.1
 
