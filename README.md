@@ -1,3 +1,4 @@
+# Port Scanner and Monitor
 Two Python scripts that demonstrate core network/security concepts:
 
 `blue_team_monitor.py`: scans a host (default: `127.0.0.1`) across a port range, compares found open ports to an expected list, and flags unexpected ports.
